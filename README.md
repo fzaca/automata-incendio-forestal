@@ -5,7 +5,7 @@ _Automata celular aplicado a incendio forestales._
 _Este programa utiliza la [Vecindad de Moore](https://es.wikipedia.org/wiki/Vecindad_de_Moore), Este autómata trata de forma muy simplificada la evolución de un bosque en el que se producen incendios, podemos observar en verde a los arboles, en rojo los puntos de fuego y en gris las cenizas.
 Si un arbol tiene un punto de fuego en alguna de sus 8  celdas vecinas Tiene una probabilidad (30% por defecto) de prenderse fuego, los puntos encendidos a su vez se convierten en ceniza._
 
-<p align="center"><img src='https://raw.githubusercontent.com/Xukay101/automata-piedrapapeltijera/main/gif00.gif' /></p>
+<p align="center"><img src='https://raw.githubusercontent.com/Xukay101/Automata-Incendio-Forestal/main/100x100.gif' /></p>
 
 ## Instrucciones 🔧
 
@@ -31,7 +31,7 @@ $ pip install -r requirements.txt
 
 ### Ejecucion 🚀
 
-_Entra a la carpeta **rockpapperscissor** y ejecuta el archivo main_
+_Entra a la carpeta **incendioforestal** y ejecuta el archivo main_
 
 ```
 $ python3 main.py
