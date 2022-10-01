@@ -1,0 +1,37 @@
+{
+    "button":
+    {
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1",
+            "shadow_width": "2"
+        }
+    },
+    "drop_down_menu":
+    {
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1",
+            "shadow_width": "2",
+            "expand_direction": "down"
+        },
+
+        "colours":
+        {
+            "normal_bg": "#25292e",
+            "hovered_bg": "#35393e"
+        }
+    },
+    "drop_down_menu.#selected_option":
+    {
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "0",
+            "open_button_width": "10"
+        }
+    }
+}
